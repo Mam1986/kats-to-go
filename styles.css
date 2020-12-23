@@ -1,0 +1,126 @@
+*{
+  box-sizing: border-box;
+
+}
+h1 {
+margin:0;
+height:6rem;
+  background-color: skyblue;
+  color:white;
+  padding:2rem;
+  font-size:200%;
+}
+
+.p1{
+float:none;
+  margin:0;
+  padding:2rem;
+  height:6rem;
+  background-color:skyblue;
+  color:white;
+  font-size:150%
+
+}
+.topnav{
+  margin:0;
+  height:3rem;
+  padding:.7rem;
+  background-color: lightgrey;
+}
+h2{
+  line-height:1.5em;
+  width:60%;
+  color:skyblue;
+  font-style:bold;
+  font-size:medium;
+  margin-top:5%;
+}
+.p2
+{
+  width:60%;
+  font-size:small;
+  }
+  .blue{
+    color:skyblue;
+  }
+
+.p3{
+  margin-top:50px;
+  line-height:1.5em;
+  width:60%;
+  font-size:medium;
+  color:skyblue;
+}
+h3{
+  margin-top:60px;
+}
+h4{
+  font-weight:bold;
+  z-index: 1000;
+}
+.p4{
+  width:60%;
+  font-size:medium;
+}
+.blue2{
+  color:skyblue;
+}
+.p5{
+  width:60%;
+}
+.side{
+  width:35%;
+  float:right;
+  margin-top:-65%;
+}
+.bottom{
+float:left;
+}
+.navbar{
+  margin-top: 2rem;
+  font-size: small;
+  font-weight: bold;
+  color:white;
+  text-align:center;
+  text-decoration: none;
+
+}
+.p6{
+  font-size:small;
+  text-align:center;
+  color:white;
+
+  }
+.p7{
+  font-size:small;
+  text-align: center;
+  color:white;
+}
+.navbar a{
+  text-decoration: none;
+  color:white;
+}
+.container1{
+  border-style: solid darkgrey;
+  background:darkgrey;
+}
+.topnav a{
+  font-weight:bold;
+  text-decoration: none;
+  color:black
+
+}
+
+.p8{
+  padding-right: 50px;
+}
+p a{
+  text-decoration: none;
+  color:skyblue;
+}
+a{
+  color:skyblue;
+}
+a{
+  color:skyblue;
+}
